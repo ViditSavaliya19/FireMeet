@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "640635738578",
+    "firebase_url": "https://firemeet-a8af1-default-rtdb.firebaseio.com",
+    "project_id": "firemeet-a8af1",
+    "storage_bucket": "firemeet-a8af1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640635738578:android:9902ebd279c8df5152900b",
+        "android_client_info": {
+          "package_name": "com.touhidapps.firemeet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "640635738578-e3glofuo87deer3v18ojl7mv7r4j5pq0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.touhidapps.firemeet",
+            "certificate_hash": "2f279b57dd789f3525993b8c8fa4994c58b9a249"
+          }
+        },
+        {
+          "client_id": "640635738578-i1p673d6rsko6jdofp0rlbv45usn0ges.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-CNxIAQ2Rtp2qtgFJru0uLtkcDKYzzFY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "640635738578-i1p673d6rsko6jdofp0rlbv45usn0ges.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

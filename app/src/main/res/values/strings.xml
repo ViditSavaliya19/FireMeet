@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FireMeet</string>
+    <string name="webclientid">640635738578-i1p673d6rsko6jdofp0rlbv45usn0ges.apps.googleusercontent.com</string>
+
+    <string name="facebook_app_id">755871832730051</string>
+    <string name="fb_login_protocol_scheme">fb755871832730051</string>
+    <string name="facebook_client_token">16918fa886d5f7b7cc6ca4a8aae36c7d</string>
+
+
+</resources>
