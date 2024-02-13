@@ -47,6 +47,7 @@ dependencies {
     implementation("com.google.android.material:material:1.11.0")
     implementation("androidx.constraintlayout:constraintlayout:2.1.4")
     implementation("com.google.android.gms:play-services-maps:18.2.0")
+    implementation("androidx.test:core-ktx:1.5.0")
     testImplementation("junit:junit:4.13.2")
     androidTestImplementation("androidx.test.ext:junit:1.1.5")
     androidTestImplementation("androidx.test.espresso:espresso-core:3.5.1")
@@ -58,5 +59,8 @@ dependencies {
     implementation("com.google.firebase:firebase-storage")
     implementation("com.google.android.gms:play-services-auth:20.7.0")
     implementation ("com.facebook.android:facebook-login:latest.release")
+    implementation ("com.razorpay:checkout:1.6.33")
+    implementation("com.google.firebase:firebase-messaging")
+    implementation("com.google.firebase:firebase-analytics")
 
 }
